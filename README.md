@@ -27,6 +27,7 @@ Rekaman praktik UAS dan dokumentasi proyek dapat diakses melalui tautan berikut:
 .
 🔹 Logbook/               # Catatan harian dan dokumentasi pengerjaan proyek dari awal hingga UAS
 🔹 BNU5/                  # Kode dan skrip untuk pengendalian robot fisik
+🔹 Proposal PKM           # File proposal PKM kelompok 3
 🔹 .gitignore             # File untuk mengecualikan file tertentu dari Git tracking
 🔹 main.ipynb             # 📓 Notebook utama untuk menjalankan deteksi menggunakan YOLOv8
 🔹 yolov8n.pt             # 🤖 Model YOLOv8 Nano yang digunakan untuk deteksi
